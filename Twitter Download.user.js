@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name         Twitter Video Saver
-// @name:vi         Tải trực tiếp video Twitter
+// @name:vi      Tải trực tiếp video Twitter
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Download Twitter videos easily with button open direct video link
-// @description:vi  Thêm nút tải xuống để mở link trực tiếp đến vifdeo trên Twitter
+// @description:viThêm nút tải xuống để mở link trực tiếp đến vifdeo trên Twitter
 // @author       lenhutbinh
-//@icon             https://i.postimg.cc/sXtc64SS/twdl.png
+// @icon         https://i.postimg.cc/sXtc64SS/twdl.png
 // @match        https://x.com/*
 // @match        https://twitter.com/*
 // @grant        unsafeWindow
